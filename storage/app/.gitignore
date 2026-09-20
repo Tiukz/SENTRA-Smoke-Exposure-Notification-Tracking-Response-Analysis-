@@ -1,4 +1,7 @@
 *
+!datasets/
+!datasets/real-snapshot.json
+!demo-scenario.json
 !private/
 !public/
 !.gitignore
