@@ -1,0 +1,360 @@
+{
+    "metadata": {
+        "captured_at": "2026-09-20T09:55:56+00:00",
+        "region": "Kalimantan Tengah",
+        "hotspot_source": "NASA FIRMS VIIRS_NOAA21_NRT",
+        "weather_source": "Open-Meteo Weather API",
+        "facility_source": "OpenStreetMap via Overpass API",
+        "hotspot_metadata": {
+            "source": "NASA FIRMS",
+            "dataset_type": "Near-real-time active fire observations",
+            "region": "Central Kalimantan, Indonesia",
+            "sensor_source_dataset": "VIIRS_NOAA21_NRT",
+            "retrieved_at": "2026-09-20T09:55:55+00:00",
+            "observation_date_range": null,
+            "raw_record_count": 4010,
+            "inside_region_count": 4010,
+            "filtered_record_count": 4010,
+            "selected_hotspot_count": 15,
+            "minimum_separation_km": 5,
+            "newest_selected_observation": {
+                "acquired_at": "2026-09-20T06:14:00+00:00",
+                "observation_age_minutes": 221,
+                "freshness_status": "RECENT"
+            },
+            "oldest_selected_observation": {
+                "acquired_at": "2026-09-20T06:14:00+00:00",
+                "observation_age_minutes": 221,
+                "freshness_status": "RECENT"
+            }
+        },
+        "weather_metadata": {
+            "dataset_type": "Current model weather conditions",
+            "requested_coordinates": {
+                "latitude": 0.772,
+                "longitude": 111.34855
+            },
+            "retrieved_at": "2026-09-20T09:55:56+00:00"
+        },
+        "facility_metadata": {
+            "dataset_type": "Live OpenStreetMap facilities",
+            "query_center": {
+                "latitude": 0.772,
+                "longitude": 111.34855
+            },
+            "radius_metres": 75000,
+            "license": "OpenStreetMap data (c) OpenStreetMap contributors, ODbL"
+        }
+    },
+    "hotspots": [
+        {
+            "latitude": 0.772,
+            "longitude": 111.34855,
+            "confidence": 70,
+            "frp": 73.93,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.59043,
+            "longitude": 111.66014,
+            "confidence": 70,
+            "frp": 46.54,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.18522,
+            "longitude": 111.10828,
+            "confidence": 70,
+            "frp": 33.64,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.66339,
+            "longitude": 112.98051,
+            "confidence": 70,
+            "frp": 30.43,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.03831,
+            "longitude": 110.8306,
+            "confidence": 70,
+            "frp": 28.68,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.50167,
+            "longitude": 111.69068,
+            "confidence": 70,
+            "frp": 27.64,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.16871,
+            "longitude": 111.04754,
+            "confidence": 70,
+            "frp": 20.16,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.7058,
+            "longitude": 111.1143,
+            "confidence": 70,
+            "frp": 18.43,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.06973,
+            "longitude": 110.72818,
+            "confidence": 70,
+            "frp": 16.52,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.65776,
+            "longitude": 113.05501,
+            "confidence": 70,
+            "frp": 16.34,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.61392,
+            "longitude": 112.95904,
+            "confidence": 70,
+            "frp": 15.52,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.71753,
+            "longitude": 111.55667,
+            "confidence": 70,
+            "frp": 15.19,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.35211,
+            "longitude": 111.78327,
+            "confidence": 70,
+            "frp": 14.7,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.55873,
+            "longitude": 111.83879,
+            "confidence": 70,
+            "frp": 14.28,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        },
+        {
+            "latitude": 0.71355,
+            "longitude": 111.48083,
+            "confidence": 70,
+            "frp": 14.25,
+            "satellite": "N21",
+            "instrument": "VIIRS",
+            "acquired_at": "2026-09-20T06:14:00+00:00",
+            "source": "NASA FIRMS VIIRS_NOAA21_NRT",
+            "observation_age_minutes": 221,
+            "freshness_status": "RECENT"
+        }
+    ],
+    "weather": {
+        "source": "Open-Meteo Weather API",
+        "observation_at": "2026-09-20T09:45:00+00:00",
+        "wind_speed_kmh": 0.7,
+        "wind_direction_degrees": 166,
+        "humidity_percent": 95
+    },
+    "facilities": [
+        {
+            "id": "way/1231598816",
+            "name": "Hospital Betong",
+            "type": "hospital",
+            "latitude": 1.3749492,
+            "longitude": 111.5748401,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "way/520075398",
+            "name": "Hospital Sri Aman II",
+            "type": "hospital",
+            "latitude": 1.2274481,
+            "longitude": 111.4556766,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/13070250028",
+            "name": "Klinik Komuniti Betong",
+            "type": "hospital",
+            "latitude": 1.4024789,
+            "longitude": 111.5350873,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/13055446671",
+            "name": "Giat Mara Lubok Antu",
+            "type": "school",
+            "latitude": 1.0570365,
+            "longitude": 111.8354091,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/10738718124",
+            "name": "Madrasah Al-Amin",
+            "type": "school",
+            "latitude": 0.1802168,
+            "longitude": 111.1835767,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "way/1231598813",
+            "name": "Maktab Rendah Sains Mara Betong",
+            "type": "school",
+            "latitude": 1.3703056,
+            "longitude": 111.5784315,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/13059557860",
+            "name": "Sarawak Skill Development Centre Sri Aman",
+            "type": "school",
+            "latitude": 1.20804,
+            "longitude": 111.46698,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/11378755853",
+            "name": "SD NEGERI 11 NANGA EMPANANG",
+            "type": "school",
+            "latitude": 0.7460536,
+            "longitude": 111.9620878,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/10738750405",
+            "name": "SD Negeri 11 SP Satu Belitang",
+            "type": "school",
+            "latitude": 0.165204,
+            "longitude": 111.2395644,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/10738718118",
+            "name": "SD Negeri 24",
+            "type": "school",
+            "latitude": 0.1916259,
+            "longitude": 111.1433887,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/10738718125",
+            "name": "SD Negeri 6 Maboh Permai",
+            "type": "school",
+            "latitude": 0.1804419,
+            "longitude": 111.1842129,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        },
+        {
+            "id": "node/10738718116",
+            "name": "SD Negeri 6 Tapang Pulau",
+            "type": "school",
+            "latitude": 0.1953675,
+            "longitude": 111.1088593,
+            "source": "OpenStreetMap",
+            "retrieved_at": "2026-09-20T09:24:13+00:00",
+            "status": "cached"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "scenario_name": "Simulasi Paparan Asap Palangka Raya",
+    "simulation_started_at": "2026-09-20T09:00:00+08:00",
+    "projection_time_hours": 2,
+    "disclaimer": "HANYA DATA SIMULASI. Koordinat dan nilai lingkungan merupakan input prototipe fiktif, bukan pengamatan waktu nyata atau peringatan resmi.",
+    "hotspot_cluster": {
+        "latitude": -2.3600,
+        "longitude": 113.7800,
+        "confidence": 92
+    },
+    "wind": {
+        "direction_degrees": 45,
+        "label": "Northeast",
+        "speed_kmh": 20,
+        "humidity": 55
+    },
+    "facilities": [
+        {
+            "name": "School A",
+            "type": "school",
+            "latitude": -2.3155,
+            "longitude": 113.8626
+        },
+        {
+            "name": "Hospital B",
+            "type": "hospital",
+            "latitude": -2.3219,
+            "longitude": 113.9452
+        },
+        {
+            "name": "Residential Area C",
+            "type": "residential",
+            "latitude": -2.3282,
+            "longitude": 114.0660
+        }
+    ]
+}
